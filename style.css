@@ -109,7 +109,7 @@ header{
 }
 
 .card ul li img{
-    transition: transform 0.3s;
+    transition: 0.3s;
 }
 
 .card{
